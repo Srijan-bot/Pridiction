@@ -1,0 +1,119 @@
+{
+  "Institute of Agricultural Sciences": [
+    {
+      "course_name": "Bachelor of Science (Hons.) in Agriculture",
+      "required_cuet_subjects_1": "Chemistry (306), Mathematics (319), and Physics (322)",
+      "required_cuet_subjects_2": "Biology/Biological Science/Biotechnology/Biochemistry (304), Chemistry (306), and Physics (322)",
+      "required_cuet_subjects_3": "Agriculture (302), Biology (304), and Chemistry (306)"
+    },
+    {
+      "course_name": "Bachelor of Technology in Dairy Technology",
+      "required_cuet_subjects_1": "Chemistry (306), Mathematics (319), and Physics (322)"
+    },
+    {
+      "course_name": "Bachelor of Technology in Food Technology",
+      "required_cuet_subjects_1": "Chemistry (306), Mathematics (319), and Physics (322)"
+    }
+  ],
+  "Institute of Science": [
+    {
+      "course_name": "Bachelor of Science (Hons.) (For PCB Stream Students)",
+      "required_cuet_subjects_1": "Biology/Biological Science/Biotechnology/Biochemistry (304), Chemistry (306), and Physics (322)"
+    },
+    {
+      "course_name": "Bachelor of Science (Hons.) (For PMC Stream Students)",
+      "required_cuet_subjects_1": "Chemistry (306), Mathematics (319), and Physics (322)"
+    }
+  ],
+  "Institute of Medical Sciences": [
+    {
+      "course_name": "Bachelor of Science (Hons.) in Medical Technology (Radiotherapy)",
+      "required_cuet_subjects_1": "Chemistry (306), Mathematics (319), and Physics (322)",
+      "required_cuet_subjects_2": "Biology/Biological Science/Biotechnology/Biochemistry (304), Chemistry (306), and Physics (322)"
+    },
+    {
+      "course_name": "Bachelor of Science (Hons.) in Medical Radiology and Imaging Technology",
+      "required_cuet_subjects_1": "Biology/Biological Science/Biotechnology/Biochemistry (304), Chemistry (306), and Physics (322)"
+    }
+  ],
+  "Faculty of Arts": [
+    {
+      "course_name": "Bachelor of Arts (Hons.)",
+      "required_cuet_subjects_1": "Language Test - English (101) or Hindi (102), and General Aptitude Test (501)"
+    },
+    {
+      "course_name": "Bachelor of Vocation in Retail & Logistics Management",
+      "required_cuet_subjects_1": "Language Test - English (101) or Hindi (102), and General Aptitude Test (501)"
+    },
+    {
+      "course_name": "Bachelor of Vocation in Hospitality & Tourism Management",
+      "required_cuet_subjects_1": "Language Test - English (101) or Hindi (102), and General Aptitude Test (501)"
+    },
+    {
+      "course_name": "Bachelor of Vocation in Fashion Technology & Apparel Design",
+      "required_cuet_subjects_1": "Language Test - English (101) or Hindi (102), and General Aptitude Test (501)"
+    },
+    {
+      "course_name": "Bachelor of Vocation in Modern Office Management",
+      "required_cuet_subjects_1": "Language Test - English (101) or Hindi (102), and General Aptitude Test (501)"
+    },
+    {
+      "course_name": "Bachelor of Vocation in Food Processing & Management",
+      "required_cuet_subjects_1": "Chemistry (306), Mathematics (319), and Physics (322)",
+      "required_cuet_subjects_2": "Biology/Biological Science/Biotechnology/Biochemistry (304), Chemistry (306), and Physics (322)",
+      "required_cuet_subjects_3": "Agriculture (302), Biology/Biological Science/Biotechnology/Biochemistry (304), and Chemistry (306)"
+    },
+    {
+      "course_name": "Bachelor of Vocation (Medical Lab Technology- Special Fee Course)",
+      "required_cuet_subjects_1": "Language Test - English (101) or Hindi (102), and Subject Test - Biology/Biological Science/Biotechnology/Biochemistry (304)"
+    }
+  ],
+  "Faculty of Commerce": [
+    {
+      "course_name": "Bachelor of Commerce (Hons.) / Bachelor of Commerce (Hons.)-Financial Market Management",
+      "required_cuet_subjects_1": "Accountancy/Book Keeping (301), Business Studies (305), and General Aptitude Test (501)"
+    }
+  ],
+  "Faculty of Law": [
+    {
+      "course_name": "Bachelor of Arts and Bachelor of Legislative Law (with Honors) {B.A. LL.B. (Hons.)}",
+      "required_cuet_subjects_1": "Language Test - English (101) or Hindi (102), and General Aptitude Test (501)"
+    }
+  ],
+  "Faculty of Performing Arts": [
+    {
+      "course_name": "Bachelor in Performing Arts in Vocal Music",
+      "required_cuet_subjects_1": "Performing Arts (320)",
+      "note": "For all Bachelor in Performing Arts programs, the final admission merit will be based on both the CUET (UG) score and a Practical Examination conducted at BHU."
+    },
+    {
+      "course_name": "Bachelor in Performing Arts in Instrumental Music",
+      "required_cuet_subjects_1": "Performing Arts (320)",
+      "note": "For all Bachelor in Performing Arts programs, the final admission merit will be based on both the CUET (UG) score and a Practical Examination conducted at BHU."
+    },
+    {
+      "course_name": "Bachelor in Performing Arts in Dance",
+      "required_cuet_subjects_1": "Performing Arts (320)",
+      "note": "For all Bachelor in Performing Arts programs, the final admission merit will be based on both the CUET (UG) score and a Practical Examination conducted at BHU."
+    }
+  ],
+  "Faculty of Social Sciences": [
+    {
+      "course_name": "Bachelor of Arts in Economics/ Geography/ History / Political Science/ Psychology/ Sociology",
+      "required_cuet_subjects_1": "Language Test - English (101) or Hindi (102), and General Aptitude Test (501)"
+    }
+  ],
+  "Faculty of Sanskrit Vidya Dharma Vijnana": [
+    {
+      "course_name": "Shastri",
+      "required_cuet_subjects_1": "Sanskrit (325)"
+    }
+  ],
+  "Faculty of Visual Arts": [
+    {
+      "course_name": "Bachelor of Fine Arts in Applied Arts/Painting/Plastic Art/ Pottery & Ceramics/Textile Design",
+      "required_cuet_subjects_1": "Fine Arts / Visual Arts (Sculpture/Painting) (312)",
+      "note": "For the Bachelor of Fine Arts program, the final admission merit will be based on both the CUET (UG) score and a Practical Examination conducted at BHU."
+    }
+  ]
+}

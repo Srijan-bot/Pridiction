@@ -1,0 +1,11 @@
+{
+  "name": "bhu-admission-predictor",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "mkdir -p public && cp index.html public/index.html && esbuild index.tsx --bundle --outfile=public/index.js --loader:.json=json --define:process.env.API_KEY='\"$API_KEY\"'"
+  },
+  "devDependencies": {
+    "esbuild": "^0.20.0"
+  }
+}

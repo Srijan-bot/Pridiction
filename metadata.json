@@ -1,0 +1,6 @@
+{
+  "name": "BHU - College Admission Predictor",
+  "description": "An intelligent system that helps students predict their college admission chances based on their academic marks. Select a course, enter your scores, and receive an AI-powered analysis of your admission probability across different campuses.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
