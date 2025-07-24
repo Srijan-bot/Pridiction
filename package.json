@@ -11,8 +11,10 @@
     "esbuild": "^0.20.0"
   },
   "dependencies": {
+    "@google/genai": "^1.11.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   }
 }
+
 
